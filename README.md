@@ -12,6 +12,8 @@ assets/         the logo, photos and app icons
 
 The favicon and app icons (`assets/favicon-32.png`, `apple-touch-icon.png`, `icon-192.png`) use the wings from the logo, in white on Night Navy.
 
+`assets/social-preview.jpg` (1200×630) is the image shown when the link is shared on Facebook, LinkedIn, X, WhatsApp and iMessage. The sharing tags in `index.html` point to `https://wealth-angels.com/`; if the site goes live at a different address, update the `og:url`, `og:image`, `twitter:image` and `canonical` tags to match.
+
 ## Preview locally
 
 Open `index.html` in a browser, or serve the folder:
