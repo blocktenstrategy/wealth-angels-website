@@ -6,8 +6,11 @@ It's a single static page with no build step: plain HTML, CSS and a little JavaS
 
 ```
 index.html      the whole page (markup, styles and scripts)
-assets/         the logo and photos
+favicon.ico     browser-tab icon (16, 32 and 48px)
+assets/         the logo, photos and app icons
 ```
+
+The favicon and app icons (`assets/favicon-32.png`, `apple-touch-icon.png`, `icon-192.png`) use the wings from the logo, in white on Night Navy.
 
 ## Preview locally
 
